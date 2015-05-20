@@ -34,7 +34,3 @@ var pixgrid = function() {
         }, !1);
     }
 }();
-
-    Status API Training Shop Blog About 
-
-    © 2015 GitHub, Inc. Terms Pri
